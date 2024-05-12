@@ -1,1 +1,1 @@
-In this project, I implemented the RSA robust encryption mechanism to safeguard SMS communications simulated on a chat application, ensuring confidentiality and integrity.
+Developed a secure Android messaging application implementing SMS encryption using the RSA algorithm and its optimized variant RSA-CRT (Chinese Remainder Theorem). Implemented client-server architecture with RSA encryption on the client-side and RSA/RSA-CRT decryption on the server.
